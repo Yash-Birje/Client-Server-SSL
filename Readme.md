@@ -1,8 +1,4 @@
-Here is a **clean, professional, ATS-friendly README.md** for your project.
 
-You can copy this directly into `README.md`.
-
----
 
 # 🔐 Secure Multi-Threaded File Sharing & Chat System
 
